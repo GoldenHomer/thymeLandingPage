@@ -112,7 +112,7 @@ ul.social-link a{
    ========================================================================== */
 .header-container .logo{
 	position: relative;
-	width: 190px; /* Adjust Width for Logo if needed */
+	width: 400px; /* Adjust Width for Logo if needed */
 	margin: 0 auto 3em;
 }
 
@@ -123,7 +123,7 @@ ul.social-link a{
    03. Header Container
    ========================================================================== */
 .header-container .logo img{
-	width: 150%;
+	width: 100%;
 }
 .header-container .wrapper{
 	text-align: center;
