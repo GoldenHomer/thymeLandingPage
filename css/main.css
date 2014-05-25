@@ -123,7 +123,7 @@ ul.social-link a{
    03. Header Container
    ========================================================================== */
 .header-container .logo img{
-	max-width: 100%;
+	width: 100%;
 }
 .header-container .wrapper{
 	text-align: center;
