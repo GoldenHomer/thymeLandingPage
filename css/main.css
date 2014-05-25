@@ -124,6 +124,8 @@ ul.social-link a{
    ========================================================================== */
 .header-container .logo img{
 	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
 }
 .header-container .wrapper{
 	text-align: center;
