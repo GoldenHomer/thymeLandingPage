@@ -495,7 +495,8 @@ cite{
 	margin-bottom: 1em;
 }
 .footer-container footer { 
-	padding: 20px 0; 
+	padding: 20px 0;
+	width: 400px; 
 }
 ul.social-link li:before{
 	display: none;
