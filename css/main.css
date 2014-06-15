@@ -31,7 +31,9 @@
 /* ==========================================================================
    00. Reset Defaults
    ========================================================================== */ 
-
+/*
+Changed the padding
+*/
 html, button, input, select, textarea { color: #222; }
 body { font-size: 1em; line-height: 1.4; }
 ::-moz-selection { background: #b3d4fc; text-shadow: none; }
